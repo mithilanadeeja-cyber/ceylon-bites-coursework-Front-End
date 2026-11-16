@@ -1,6 +1,6 @@
 # Ceylon Bites — Frontend Coursework
 
-CMJD Batch 112/113 · Front-End Development with React
+CMJD Batch 112/113 · Front-End Development 
 
 Student name: Y.M.M Nadeeja 
 
@@ -42,7 +42,7 @@ npm run build
 ## Authentication and payments
 
  Demo login: customer@demo.test or admin@demo.test, 
- password Demo123!.
+ password: Demo123!.
 
 ## Code guide
 
