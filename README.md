@@ -1,15 +1,23 @@
 # Ceylon Bites — Frontend Coursework
+CMJD Batch 112 · Front-End Development
 
+<<<<<<< HEAD
 CMJD Batch 112 · Front-End Development 
-
-Student name: Y.M.M Nadeeja 
+=======
+Student name: Y.M.M Nadeeja
+>>>>>>> 74b1a9e (Clean up frontend README)
 
 Frontend repository:https://github.com/mithilanadeeja-cyber/ceylon-bites-coursework-Front-End
 
+<<<<<<< HEAD
+Frontend repository:https://github.com/mithilanadeeja-cyber/ceylon-bites-coursework-Front-End
+
+=======
+>>>>>>> 74b1a9e (Clean up frontend README)
 
 ## What this repository contains
 
-React + TypeScript, React Router, Axios, Bootstrap, responsive styles, authentication forms, protected navigation, food/category views, cart, checkout, orders, payments, profile and administrator menu management. The separate Spring Boot/MySQL backend is required for normal operation. Do not copy the backend source into this repository.
+React + TypeScript, React Router, Axios, Bootstrap, responsive styles, authentication forms, protected navigation, food/category views, cart, checkout, orders, payments, profile and administrator menu management. The separate Spring Boot/MySQL backend is required for normal operation. 
 
 ## Run on Windows
 
@@ -57,13 +65,6 @@ npm run build
 
 
 
-```bash
-git init
-git add .
-git commit -m "Submit React frontend coursework"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/ceylon-bites-frontend.git
-git push -u origin main
-```
+
 
 
