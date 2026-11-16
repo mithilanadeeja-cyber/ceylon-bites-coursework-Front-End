@@ -4,7 +4,7 @@ CMJD Batch 112 · Front-End Development
 
 Student name: Y.M.M Nadeeja 
 
-Frontend repository: https://github.com/mithilanadeeja-cyber/ceylon-bites-coursework/blob/main/README.md
+Frontend repository: https://github.com/mithilanadeeja-cyber/ceylon-bites-coursework
 
 
 ## What this repository contains
