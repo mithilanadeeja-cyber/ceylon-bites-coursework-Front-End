@@ -4,8 +4,8 @@ CMJD Batch 112/113 · Front-End Development with React
 
 Student name: Y.M.M Nadeeja 
 
-Frontend repository: ADD YOUR FRONTEND GITHUB URL  
-Backend repository: ADD YOUR BACKEND GITHUB URL
+Frontend repository:   
+
 
 ## What this repository contains
 
