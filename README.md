@@ -1,6 +1,6 @@
 # Ceylon Bites — Frontend Coursework
 
-CMJD Batch 112/113 · Front-End Development 
+CMJD Batch 112 · Front-End Development 
 
 Student name: Y.M.M Nadeeja 
 
