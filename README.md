@@ -1,19 +1,12 @@
 # Ceylon Bites — Frontend Coursework
 CMJD Batch 112 · Front-End Development
 
-<<<<<<< HEAD
-CMJD Batch 112 · Front-End Development 
-=======
 Student name: Y.M.M Nadeeja
->>>>>>> 74b1a9e (Clean up frontend README)
 
 Frontend repository:https://github.com/mithilanadeeja-cyber/ceylon-bites-coursework-Front-End
 
-<<<<<<< HEAD
-Frontend repository:https://github.com/mithilanadeeja-cyber/ceylon-bites-coursework-Front-End
 
-=======
->>>>>>> 74b1a9e (Clean up frontend README)
+
 
 ## What this repository contains
 
