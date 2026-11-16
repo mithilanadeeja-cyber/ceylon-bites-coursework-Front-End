@@ -1,11 +1,11 @@
-node_modules/
-dist/
-target/
+# Local environment files
 .env
 .env.*
 !.env.example
-*.tsbuildinfo
-*.log
-.idea/
-.vscode/
-__pycache__/
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+
+# Backend build output
+target/
